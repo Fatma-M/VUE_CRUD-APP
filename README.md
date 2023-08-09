@@ -9,7 +9,7 @@
 
 # Links
 
-- Live Site URL:
+- Live Site URL: https://vue-crud-app-iota.vercel.app/
 
 # Description
 
