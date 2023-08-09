@@ -10,13 +10,6 @@
       Track your daily task's using this todo tracker with abilities to save,
       complete, edit & delete todos.
     </p>
-
-    <p>
-      Feel free to add on to this application with functionalities such as the
-      ability to drag and reorder todos, animate creation/deletion of todos or
-      even create this into a full stack application with the ability to have
-      different lists for different days of tracking todos!
-    </p>
   </div>
 </template>
 
